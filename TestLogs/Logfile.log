@@ -1,0 +1,56 @@
+2019-05-19 22:17:33-0    [main] INFO  com.core.framework.pages.HomePage  - Verified Landing page url
+2019-05-19 22:17:33-30   [main] INFO  com.core.framework.pages.HomePage  - Verifed Application Logo
+2019-05-19 22:17:34-594  [main] INFO  com.core.framework.pages.HomePage  - Source City Entered
+2019-05-19 22:17:34-1113 [main] INFO  com.core.framework.pages.HomePage  - Destination City entered
+2019-05-19 22:17:34-1243 [main] INFO  com.core.framework.pages.HomePage  - Current Date Selected
+2019-05-19 22:17:36-3340 [main] INFO  com.core.framework.pages.HomePage  - Search Buses Button clicked
+2019-05-19 22:17:36-3368 [main] INFO  com.core.framework.pages.SelectBusSeatPage  - Verifying selected source city present in URL
+2019-05-19 22:17:38-4805 [main] INFO  com.core.framework.pages.SelectBusSeatPage  - Bus after 6pm selected
+2019-05-19 22:17:38-5027 [main] INFO  com.core.framework.pages.SelectBusSeatPage  - Non-AC bus selected
+2019-05-19 22:17:38-5061 [main] INFO  com.core.framework.pages.SelectBusSeatPage  - Clicked on Select seats
+2019-05-19 22:17:38-5323 [main] INFO  com.core.framework.pages.HomePage  - Verified Landing page url
+2019-05-19 22:17:38-5350 [main] INFO  com.core.framework.pages.HomePage  - Verifed Application Logo
+2019-05-19 22:17:43-9944 [main] INFO  com.core.framework.pages.HomePage  - Hotel Link Clicked
+2019-05-19 22:17:43-10059 [main] INFO  com.core.framework.pages.HomePage  - Verified Hotel Page Url
+2019-05-19 22:17:44-10636 [main] INFO  com.core.framework.pages.SearchHotelPage  - Hotel Location selected
+2019-05-19 22:17:52-19116 [main] INFO  com.core.framework.pages.SearchHotelPage  - Search Hotel Button clicked
+2019-05-19 22:17:52-19243 [main] INFO  com.core.framework.pages.SearchHotelPage  - Captured Available Hotel names
+2019-05-19 22:17:52-19286 [main] INFO  com.core.framework.pages.SearchHotelPage  - Captured Available Hotel names
+2019-05-19 22:17:52-19344 [main] INFO  com.core.framework.pages.SearchHotelPage  - Captured Available Hotel names
+2019-05-19 22:17:52-19399 [main] INFO  com.core.framework.pages.SearchHotelPage  - Captured Available Hotel names
+2019-05-19 22:17:53-19452 [main] INFO  com.core.framework.pages.SearchHotelPage  - Captured Available Hotel names
+2019-05-19 22:17:53-19494 [main] INFO  com.core.framework.pages.SearchHotelPage  - Captured Available Hotel names
+2019-05-19 22:17:53-19541 [main] INFO  com.core.framework.pages.SearchHotelPage  - Captured Available Hotel names
+2019-05-19 22:17:53-19584 [main] INFO  com.core.framework.pages.SearchHotelPage  - Captured Available Hotel names
+2019-05-19 22:17:53-19637 [main] INFO  com.core.framework.pages.SearchHotelPage  - Captured Available Hotel names
+2019-05-19 22:17:53-19680 [main] INFO  com.core.framework.pages.SearchHotelPage  - Captured Available Hotel names
+2019-05-19 22:17:53-19733 [main] INFO  com.core.framework.pages.SearchHotelPage  - Captured Available Hotel names
+2019-05-19 22:17:53-19776 [main] INFO  com.core.framework.pages.SearchHotelPage  - Captured Available Hotel names
+2019-05-19 22:17:53-19819 [main] INFO  com.core.framework.pages.SearchHotelPage  - Captured Available Hotel names
+2019-05-19 22:17:53-19863 [main] INFO  com.core.framework.pages.SearchHotelPage  - Captured Available Hotel names
+2019-05-19 22:17:53-19905 [main] INFO  com.core.framework.pages.SearchHotelPage  - Captured Available Hotel names
+2019-05-19 22:17:53-19947 [main] INFO  com.core.framework.pages.SearchHotelPage  - Captured Available Hotel names
+2019-05-19 22:17:53-20008 [main] INFO  com.core.framework.pages.SearchHotelPage  - Captured Available Hotel names
+2019-05-19 22:17:53-20053 [main] INFO  com.core.framework.pages.SearchHotelPage  - Captured Available Hotel names
+2019-05-19 22:17:53-20097 [main] INFO  com.core.framework.pages.SearchHotelPage  - Captured Available Hotel names
+2019-05-19 22:17:53-20141 [main] INFO  com.core.framework.pages.SearchHotelPage  - Captured Available Hotel names
+2019-05-19 22:17:53-20154 [main] INFO  com.core.framework.pages.SearchHotelPage  - Verifying location for available Hotel list
+2019-05-19 22:17:53-20166 [main] INFO  com.core.framework.pages.SearchHotelPage  - Verifying location for available Hotel list
+2019-05-19 22:17:53-20178 [main] INFO  com.core.framework.pages.SearchHotelPage  - Verifying location for available Hotel list
+2019-05-19 22:17:53-20190 [main] INFO  com.core.framework.pages.SearchHotelPage  - Verifying location for available Hotel list
+2019-05-19 22:17:53-20202 [main] INFO  com.core.framework.pages.SearchHotelPage  - Verifying location for available Hotel list
+2019-05-19 22:17:53-20214 [main] INFO  com.core.framework.pages.SearchHotelPage  - Verifying location for available Hotel list
+2019-05-19 22:17:53-20226 [main] INFO  com.core.framework.pages.SearchHotelPage  - Verifying location for available Hotel list
+2019-05-19 22:17:53-20239 [main] INFO  com.core.framework.pages.SearchHotelPage  - Verifying location for available Hotel list
+2019-05-19 22:17:53-20252 [main] INFO  com.core.framework.pages.SearchHotelPage  - Verifying location for available Hotel list
+2019-05-19 22:17:53-20266 [main] INFO  com.core.framework.pages.SearchHotelPage  - Verifying location for available Hotel list
+2019-05-19 22:17:53-20278 [main] INFO  com.core.framework.pages.SearchHotelPage  - Verifying location for available Hotel list
+2019-05-19 22:17:53-20290 [main] INFO  com.core.framework.pages.SearchHotelPage  - Verifying location for available Hotel list
+2019-05-19 22:17:53-20301 [main] INFO  com.core.framework.pages.SearchHotelPage  - Verifying location for available Hotel list
+2019-05-19 22:17:53-20313 [main] INFO  com.core.framework.pages.SearchHotelPage  - Verifying location for available Hotel list
+2019-05-19 22:17:53-20326 [main] INFO  com.core.framework.pages.SearchHotelPage  - Verifying location for available Hotel list
+2019-05-19 22:17:53-20338 [main] INFO  com.core.framework.pages.SearchHotelPage  - Verifying location for available Hotel list
+2019-05-19 22:17:53-20350 [main] INFO  com.core.framework.pages.SearchHotelPage  - Verifying location for available Hotel list
+2019-05-19 22:17:53-20362 [main] INFO  com.core.framework.pages.SearchHotelPage  - Verifying location for available Hotel list
+2019-05-19 22:17:53-20374 [main] INFO  com.core.framework.pages.SearchHotelPage  - Verifying location for available Hotel list
+2019-05-19 22:17:53-20386 [main] INFO  com.core.framework.pages.SearchHotelPage  - Verifying location for available Hotel list

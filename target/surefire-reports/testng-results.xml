@@ -1,0 +1,94 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results total="5" passed="5" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2019-05-19T16:47:23Z" name="Surefire suite" finished-at="2019-05-19T16:47:54Z" duration-ms="30980">
+    <groups>
+    </groups>
+    <test started-at="2019-05-19T16:47:23Z" name="Surefire test" finished-at="2019-05-19T16:47:54Z" duration-ms="30980">
+      <class name="com.core.framework.tests.BusBookingTest">
+        <test-method is-config="true" signature="setUp(java.lang.String, java.lang.String)[pri:0, instance:com.core.framework.tests.BusBookingTest@319b92f3]" started-at="2019-05-19T22:17:23Z" name="setUp" finished-at="2019-05-19T22:17:28Z" duration-ms="5461" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[chrome]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[https://www.redbus.in]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method is-config="true" signature="setUp(java.lang.String, java.lang.String)[pri:0, instance:com.core.framework.tests.HotelBookingTest@10a035a0]" started-at="2019-05-19T22:17:28Z" name="setUp" finished-at="2019-05-19T22:17:33Z" duration-ms="4987" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[chrome]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[https://www.redbus.in]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method signature="searchBus(java.lang.String, java.lang.String)[pri:0, instance:com.core.framework.tests.BusBookingTest@319b92f3]" started-at="2019-05-19T22:17:33Z" name="searchBus" data-provider="searchCity" finished-at="2019-05-19T22:17:36Z" duration-ms="3354" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Mumbai]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[Nasik]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- searchBus -->
+        <test-method signature="advanceSearch()[pri:0, instance:com.core.framework.tests.BusBookingTest@319b92f3]" started-at="2019-05-19T22:17:36Z" name="advanceSearch" finished-at="2019-05-19T22:17:38Z" duration-ms="1686" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- advanceSearch -->
+        <test-method signature="selectSeatAndBook()[pri:0, instance:com.core.framework.tests.BusBookingTest@319b92f3]" started-at="2019-05-19T22:17:38Z" name="selectSeatAndBook" finished-at="2019-05-19T22:17:38Z" duration-ms="177" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- selectSeatAndBook -->
+        <test-method is-config="true" signature="closeBrowser()[pri:0, instance:com.core.framework.tests.BusBookingTest@319b92f3]" started-at="2019-05-19T22:17:38Z" name="closeBrowser" finished-at="2019-05-19T22:17:38Z" duration-ms="106" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- closeBrowser -->
+      </class> <!-- com.core.framework.tests.BusBookingTest -->
+      <class name="com.core.framework.tests.HotelBookingTest">
+        <test-method signature="verifyClickHotelLink()[pri:0, instance:com.core.framework.tests.HotelBookingTest@10a035a0]" started-at="2019-05-19T22:17:38Z" name="verifyClickHotelLink" finished-at="2019-05-19T22:17:43Z" duration-ms="4749" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyClickHotelLink -->
+        <test-method signature="searchandVerifyHotelByLocation(java.lang.String)[pri:0, instance:com.core.framework.tests.HotelBookingTest@10a035a0]" started-at="2019-05-19T22:17:43Z" name="searchandVerifyHotelByLocation" data-provider="searchLocation" finished-at="2019-05-19T22:17:53Z" duration-ms="10327" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Andheri, Mumbai]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- searchandVerifyHotelByLocation -->
+        <test-method is-config="true" signature="closeBrowser()[pri:0, instance:com.core.framework.tests.HotelBookingTest@10a035a0]" started-at="2019-05-19T22:17:53Z" name="closeBrowser" finished-at="2019-05-19T22:17:54Z" duration-ms="122" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- closeBrowser -->
+      </class> <!-- com.core.framework.tests.HotelBookingTest -->
+    </test> <!-- Surefire test -->
+  </suite> <!-- Surefire suite -->
+</testng-results>
